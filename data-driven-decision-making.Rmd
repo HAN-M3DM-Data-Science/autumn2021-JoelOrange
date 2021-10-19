@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Joël van Bragt
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -8,23 +8,42 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LXMjN6kVmUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1">
 
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
-
+</iframe>
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Domino's had to perform better then it's competitors to become the world's leading pizza chain. Their goal was to outperform it's direct competitors. By trying to do so they used analytics and transformed themselves from a pizza company into a technology company (Van Belleghem, 2019; Splunk, 2019).
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Domino's transformed it's company from an operations-focused business to a customer focused business says Stephen Kennedy, Director Digital Marketing & Media at Domino's (Pure Storage, 2020). Using data and deriving decisions from them made it possible to change the customer experience for the better. This is possibly done by extracting, preparing and blending the data. Then a descriptive analysis is performed from where a Diagnostic analysis showed the preference of the customers. This process is visualized in the figure below.
 
-## What can the organization do with 3DM that they couldn’t do before?
+![*Figure 1. A process model for data-driven decision making taken from Lu, Cairns, and Smith (2020)*](https://businessdatasolutions.github.io/courses/data%20science%20for%20business/gitbook/book-output/images/lu.png)
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+One of the improvements stemming from the analytics is the possibility to tap one button to order the same pizza('s) a customer ordered last time. Either be it on a phone, pc or actual physical button (Van Belleghem, 2019). Other improvements are the introduction of the pizza tracker and later the gps tracker. The pizza tracker shows the progress of the making, baking and possible delivery of an order (Domino's New Zealand, 2014; Domino's Pizza Netherlands, n.d.). The gps tracker is a later addition to the customers ability to track. It shows precisely where the delivery driver is at the moment and how long it will take them to get to the adress (Domino's Pizza Netherlands, n.d.). Using that information customers can prepare for receiving the pizza's and paying for them.
+
+The accessibility to real-time data also meant the possibility for a quick turnaround when need be. Per example marketing campaigns: when these don't perform as intended they can be altered to better fit the goal expected to be reached says Jason McMann, Director eCommerce Development Operation's at Domino's (Tealium, 2019).
+
+## What can the organization do with 3DM that they couldn't do before?
+
+Develop better customer experiences by using the insights the analytics brought up. This way they could decide on what features to focus on or even see correlations that are not easily seen without analyzing the data. Based on the new findings action can be taken increasing the performance of the company (Tealium, 2019).
+
+## Sources
+
+Domino's New Zealand (2014, February 17). Don Meij on Domino's Pizza Tracker. Retrieved from [\<https://www.youtube.com/watch?v=cS2m1O82gVQ\>](https://www.youtube.com/watch?v=cS2m1O82gVQ){.uri}​
+
+Domino's Pizza Netherlands (n.d.) Pizza tracker. Retrieved from <https://www.dominos.nl/over-dominos/technologie-en-innovatie/pizza-tracker>​
+
+Domino's Pizza Netherlands (n.d.) Volg je bezorging real time met Domino's GPS Tracker. Retrieved from <https://www.dominos.nl/over-dominos/gps-tracker>​
+
+Lu, Jing, Lisa Cairns, and Lucy Smith. 2020. "Data Science in the Business Environment: Customer Analytics Case Studies in SMEs." *Journal of Modelling in Management*.
+
+Pure Storage (2020, January 28). Domino's Increases Customer Focus with Data. Retrieved from <https://www.youtube.com/watch?v=2BIR9Kf3D_g>​
+
+Splunk (2013, September 27). "Slicing Data for Domino's Pizza". Retrieved from [\<https://www.youtube.com/watch?v=LXMjN6kVmUY\>](https://www.youtube.com/watch?v=LXMjN6kVmUY){.uri}​
+
+Tealium (2019, March 9). Domino's- Making Data a 1st Class Citizen at Domino's. Retrieved from <https://www.youtube.com/watch?v=OCqHa_116A4>​
+
+Van Belleghem, S. (2019, October 9). Domino's Pizza transformed their strategy to become the fastest and the easiest place to order pizza. Retrieved from <https://www.youtube.com/watch?v=vvP3Uz73KhU>​

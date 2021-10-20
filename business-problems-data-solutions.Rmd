@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Joël van Bragt
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -10,17 +10,22 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tB0BM2RDJfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Falco Pacific is a Canadian mining company. In Canada, publicly traded mining companies are required to report findings about it's mineral properties in according with National Instrument 43-101 (NI). This is a set of rules on what and how to report the findings to stock exchanges within Canada (Ontario Securities Commision, 2016).
+
+To adhere to these rules a very thorough research needs to be done of all the land a mining company owns or is currently exploring This commonly includes drilling holes into the ground to gain insight. This is a costly matter.
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+The area the company is located in has been mined for more than 80 years. During these 80 years different companies all did soil tests to adhere gain insight on where to mine and later to comply with the rules. Falco Pacific has over the years bought up competitors and thus, their data. These data were mostly hard copies of reports regarding soil testing. By digitizing and data mining the data a detailed model could be created which should show enough detail to comply with NI.
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+By being able to use a digital model to comply with the rules instead of testing the earth by hand by digging holes over and over a lot of costs are being cut. Furthermore, by having a digital model of all the property owned a new mining spot can be more easily located increasing the turnaround from wanting to expand to actually expanding a lot faster. The digital model can be incrementally updated without needing enormous research or looking through old hardcopy reports.
+
+## References
+Ontario Securities Commission (2016, May 9). Unofficial Consolidation: National Instrument 43-101 Standards of Disclosure for Mineral Projects. Retrieved from https://www.osc.ca/en/securities-law/instruments-rules-policies/4/43-101/unofficial-consolidation-national-instrument-43-101-standards-disclosure-mineral-projects

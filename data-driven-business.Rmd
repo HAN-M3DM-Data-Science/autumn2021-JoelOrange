@@ -1,5 +1,6 @@
 ---
 title: "Assigment - Data Driven Business"
+author: Joël van Bragt
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -7,19 +8,21 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
-
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GTH70zYrO4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The willingness and ability to use data analysis as tool for making decisions. The collected data should serve a purpose, solving business problems. The data should not be collected for data's sake (Diaz et al., 2018).
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Having valid data and the backing for making data driven decisions all the way through the company, from the top to the bottom. Everyone needs to understand the added value of using data and making them feel responsible for providing proper data in the first place. Also democratizing data and making it accessible for everyone in the company to use it for gaining knowledge and making better (data driven) decisions provides massive value to the company as a whole. Just because a job title a person holds doesn't specify knowledge of data analysis doesn't mean they can't do good with it (Diaz et al., 2018).
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Getting top managers on board with the added value of data driven decision making. The data strategy should be aligned with the business strategy. Then increasing the validity of the data by getting employees on all levels of the company aligned on the importance of correct data and the usage of data analysis. And letting employees actually use the data for analysis to solve business problems. The last step is measuring the changes. This way it is possible to see what is and what isn't driving value in results and adjust accordingly says Chris Mazzei, Chief Analytics Officer at EY (Forbes Insights, 2016).
 
+## Sources
+Díaz, A., Rowshankish, K., & Saleh, T. (2018, September). Why data culture matters. Retrieved from https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Analytics/Our%20Insights/Why%20data%20culture%20matters/Why-data-culture-matters.ashx
+
+Forbes Insights (2016, February 24). 4 Steps to Becoming a Data-Driven Organization. Retrieved from https://www.youtube.com/watch?v=GTH70zYrO4I
